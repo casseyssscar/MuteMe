@@ -35,3 +35,5 @@ Settings and error logs are stored locally in `%APPDATA%\MuteMe\`.
 
 ## License
 [MIT](LICENSE)
+<img width="325" height="381" alt="{E3272BCB-16CE-41BB-990D-131DAD60520E}" src="https://github.com/user-attachments/assets/c2a34f1c-b8c0-4ac1-aa1e-4a915ca2e474" />
+<img width="159" height="193" alt="{8D670972-D3C6-4349-B096-86731274DF65}" src="https://github.com/user-attachments/assets/fec20a18-4f4f-4716-8215-fdf10dbd5ec3" />
